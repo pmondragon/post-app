@@ -54,7 +54,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'tacos_hub.urls'
+ROOT_URLCONF = 'mb_project.urls'
 
 TEMPLATES = [
     {
